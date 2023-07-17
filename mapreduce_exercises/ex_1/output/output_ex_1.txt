@@ -1,0 +1,5 @@
+A	pos
+B	eq
+C	neg
+D	pos
+E	neg
