@@ -1,0 +1,6 @@
+Agribank	18.333334
+Bidv	18.333334
+Sacombank	14.0
+Techcombank	19.5
+Vietcombank	11.0
+Viettinbank	14.5

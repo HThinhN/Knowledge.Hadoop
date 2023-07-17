@@ -1,0 +1,14 @@
+Vietcombank 10
+Agribank 15
+Bidv 20
+Bidv 23
+Agribank 17
+Vietcombank 12
+Viettinbank 13
+Viettinbank 16
+Agribank 23
+Sacombank 15
+Techcombank 26
+Sacombank 13
+Techcombank 13
+Bidv 12
