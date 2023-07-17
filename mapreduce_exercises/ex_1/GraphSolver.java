@@ -50,6 +50,7 @@ public class GraphSolver {
       }
 
   }
+// I'm using Eclipse to test this
 //   public static void main(String[] args) {
 // 	  GraphSolver graph = new GraphSolver();
 // 	  graph.addVertex("A");

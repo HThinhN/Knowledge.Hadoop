@@ -19,14 +19,16 @@ All step about how to run the MapReduce program in Hadoop.
 ### 2.1. Compile Java code: 
     javac -cp ${HADOOP_CLASSPATH} -d '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/classes' '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/WordCount.java'
 
-**Note:** sudo chmod 777 classes 
+**Note:**
+sudo chmod 777 wordcount 
+sudo chmod 777 classes 
 
 ### 2.2. Create file.jar: 
     jar -cvf WordCount.jar -C classes/ .
 **Note:** sudo chmod 777 wordcount 
 
 ### 2.3. Run file.jar in hadoop with input
-    hadoop jar '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/WordCount.jar' WordCount /WordCount/Input /WordCount/Output
+    hadoop jar '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/WordCount.jar' wordcount.WordCount /WordCount/Input /WordCount/Output
 ### 2.4. Result of MapReduce Program: 
     hadoop dfs -cat /WordCount/Output/* | tee /home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/output/output_wordcount.txt
 ![Result MapReduce](images/Result_MapReduce.png)
