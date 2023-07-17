@@ -1,0 +1,2 @@
+Hello everyone this is a sample dataset. Calculate the word size and count the number of words of that size in
+this text file.
