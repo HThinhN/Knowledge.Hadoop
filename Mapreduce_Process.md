@@ -4,7 +4,7 @@ All step about how to run the MapReduce program in Hadoop.
 
 ## 1. Basic interaction with hadoop
 ### 1.1. Remove file in hadoop: 
-hadoop fs -rm -r /WordCount
+    hadoop fs -rm -r /WordCount
 ### 1.2. Rename varible HADOOP_CLASSPATH in terminal
     export HADOOP_CLASSPATH=$(hadoop classpath)
 #### =>Check again:  
@@ -13,7 +13,7 @@ hadoop fs -rm -r /WordCount
     hadoop fs -mkdir /WordCount
     hadoop fs -mkdir /WordCount/Input
 ### 1.4. Put file into a directory in hadoop: 
-    hadoop fs -put '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/input/wordcount.txt' /WordCount/Input 
+    hadoop fs -put '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/input/input_wordcount.txt' /WordCount/Input 
 
 ## 2. Run MapReduce program
 ### 2.1. Compile Java code: 
@@ -28,5 +28,5 @@ hadoop fs -rm -r /WordCount
 ### 2.3. Run file.jar in hadoop with input
     hadoop jar '/home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/WordCount.jar' WordCount /WordCount/Input /WordCount/Output
 ### 2.4. Result of MapReduce Program: 
-    hadoop dfs -cat /WordCount/Output/* | tee /home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/output/output.txt
+    hadoop dfs -cat /WordCount/Output/* | tee /home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/output/output_wordcount.txt
 ![Result MapReduce](images/Result_MapReduce.png)
