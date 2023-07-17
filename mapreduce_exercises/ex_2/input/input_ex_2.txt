@@ -1,0 +1,1 @@
+Hello everyone this is a sample dataset. You need to print the word count of particular words in this dataset.
