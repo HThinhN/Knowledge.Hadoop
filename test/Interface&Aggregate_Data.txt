@@ -14,3 +14,5 @@ Dict : key-value
 ### get(Object key): Dùng key để băm tới Value
 
 ### keySet(): Lấy toàn bộ key có trong Map
+
+### Hash Set: Là Set nhưng thêm nhiều tính năng như thêm, xóa, kiếm tra tồn tại của hash table để nâng cao hiệu suất

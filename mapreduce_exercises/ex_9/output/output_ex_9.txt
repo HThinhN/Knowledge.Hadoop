@@ -1,0 +1,13 @@
+Number of unique listeners	3
+Track radio - 111113	0
+Track radio - 111115	1
+Track radio - 111117	1
+Track shared - 111113	1
+Track shared - 111115	1
+Track shared - 111117	0
+Track skipped - 111113	0
+Track skipped - 111115	0
+Track skipped - 111117	1
+Track total - 111113	1
+Track total - 111115	2
+Track total - 111117	1
