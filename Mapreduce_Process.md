@@ -32,3 +32,6 @@ sudo chmod 777 classes
 ### 2.4. Result of MapReduce Program: 
     hadoop dfs -cat /WordCount/Output/* | tee /home/ZeroX/hadoop_knowledge/mapreduce_exercises/wordcount/output/output_wordcount.txt
 ![Result MapReduce](images/Result_MapReduce.png)
+
+### Note: 
+If you want to add a lot of input path, you need append "s", it mean **FileInputFormat.addInputPaths**
