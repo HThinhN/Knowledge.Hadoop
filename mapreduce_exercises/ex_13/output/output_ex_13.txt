@@ -1,0 +1,9 @@
+bright	1.0
+down	1.0
+is	1.0
+so	1.0
+sun	1.3333334
+sunshine	1.3333334
+the	1.0
+warm	1.0
+yellow	1.5

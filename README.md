@@ -9,6 +9,7 @@ All step of the running process of MapReduce program
 
 ## 3. MapReduce Exercise: 
 Some exercises about MapReduce program in Hadoop
+
 **Note**: Folder **paraphrase** includes all questions and references for implementing folder **mapreduce_exercise** 
 
 
