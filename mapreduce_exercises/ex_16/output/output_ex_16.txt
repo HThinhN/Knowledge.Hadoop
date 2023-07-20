@@ -1,0 +1,9 @@
+bright	2
+down	1
+is	1
+so	2
+sun	3
+sunshine	3
+the	2
+warm	2
+yellow	2
