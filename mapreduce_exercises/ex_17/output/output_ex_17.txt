@@ -1,0 +1,13 @@
+cool	1
+dessert	1
+eat	1
+enjoy	1
+full	1
+of	2
+oh	1
+so	1
+summer	1
+sweet	1
+to	2
+treat	2
+water	1
