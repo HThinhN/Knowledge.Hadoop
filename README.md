@@ -12,5 +12,8 @@ Some exercises about MapReduce program in Hadoop
 
 **Note**: Folder **paraphrase** includes all questions and references for implementing folder **mapreduce_exercise** 
 
+## 4. Conclusion: 
+All Result and some notes.
+
 
 
