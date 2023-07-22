@@ -4,7 +4,7 @@ This repository will describe all my knowledge about Apache Hadoop, such as:
 ## 0. Individual introduction: 
 | Full Name                  |   Student's ID   | Student's Email                    |      Individual Email              |
 |:--------------------------:|:----------------:|:----------------------------------:|:----------------------------------:|
-| Nguyễn Hoàng Thịnh         |  20120587        | 20120587@student.hcmus.edu.vn      | hoangthinhstkt@gmail.com               |
+| Nguyễn Hoàng Thịnh         |  20120587        | 20120587@student.hcmus.edu.vn      | hoangthinhstkt@gmail.com           |
 
 ## 1. Hadoop installation:
 All the installation process of Apache Hadoop
