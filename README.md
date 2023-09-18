@@ -1,5 +1,5 @@
 # Hadoop_Knowledge
-This repository will describe all my knowledge about Apache Hadoop, such as: 
+This repository will describe all my knowledge about Apache Hadoop
 
 ## 0. Individual introduction: 
 | Full Name                  |   Student's ID   | Student's Email                    |      Individual Email              |
